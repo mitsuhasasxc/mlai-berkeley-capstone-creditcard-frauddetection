@@ -15,7 +15,7 @@
 
 | File | Description |
 |------|-------------|
-| `capstone_credit_card_fraud_detection_final.ipynb` | Jupyter Notebook version - same pipeline with inline plots and markdown-sectioned cells |
+| `capstone_credit_card_fraud_detection_final.ipynb` | Jupyter Notebook version|
 | `data/creditcard.csv` | Kaggle dataset containing 284,807 credit card transactions |
 | `README_final.md` | Project documentation |
 
